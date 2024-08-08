@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas no meu perfil 🖤
 
+Meu nome é kamily
 
-**P12345FKRORF/p12345fkrorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ### você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+kamily.santos.sampaio@escola.pr.gov.br
 
+@kamilyvictoriadossantossampaio
+
+![_](https://media1.tenor.com/m/objxyt0pv9IAAAAC/sakura-haruno.gif)
